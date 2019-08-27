@@ -1,4 +1,4 @@
-# redux 基本配置
+# Redux 基本配置
 
 
 ![](http://ww4.sinaimg.cn/large/006y8mN6ly1g69q1oltgbj314y0pm0vx.jpg)
